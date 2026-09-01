@@ -1,4 +1,4 @@
-# Chinese Pinyin Completion
+# GODOT 拼音补全 \ Godot Chinese Pinyin Completion
 
 Godot 4 编辑器插件：输入拼音首字母/全拼，自动补全项目中的中文命名。
 
